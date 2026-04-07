@@ -5,10 +5,10 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-      - Clients
-      - Java
-      - Android
-      - HTTP Client
+  - Android
+  - Clients
+  - HTTP Client
+  - Java
 url: >-
   https://raw.githubusercontent.com/api-evangelist/okhttp/refs/heads/main/apis.yml
 created: '2026-03-27'
@@ -21,10 +21,10 @@ apis:
       OkHttp is an efficient HTTP and HTTP/2 client for Android and Java applications with connection pooling and transparent GZIP.
     humanURL: https://square.github.io/okhttp/
     tags:
-        - Clients
-        - Java
-        - Android
-        - HTTP Client
+      - Android
+      - Clients
+      - HTTP Client
+      - Java
     properties:
       - type: Documentation
         url: https://square.github.io/okhttp/recipes/
