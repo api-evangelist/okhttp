@@ -28,14 +28,14 @@ apis:
     properties:
       - type: Documentation
         url: https://square.github.io/okhttp/recipes/
-      - type: Getting Started
+      - type: GettingStarted
         url: https://square.github.io/okhttp/getting_started/
 common:
   - type: Website
     url: https://square.github.io/okhttp/
   - type: Documentation
     url: https://square.github.io/okhttp/recipes/
-  - type: GitHub Organization
+  - type: GitHubOrganization
     url: https://github.com/square/okhttp
 maintainers:
   - FN: Kin Lane
