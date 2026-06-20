@@ -3,7 +3,7 @@ name: OkHttp
 description: >-
   OkHttp is an efficient HTTP and HTTP/2 client for Android and Java applications with connection pooling and transparent GZIP.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Android
   - Clients
