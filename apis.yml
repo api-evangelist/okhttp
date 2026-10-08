@@ -54,6 +54,12 @@ apis:
       - type: GettingStarted
         url: https://square.github.io/okhttp/getting_started/
 common:
+  - type: Plans
+    url: plans/okhttp-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/okhttp-rate-limits.yml
+  - type: FinOps
+    url: finops/okhttp-finops.yml
   - type: Website
     url: https://square.github.io/okhttp/
   - type: Documentation
